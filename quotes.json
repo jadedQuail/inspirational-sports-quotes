@@ -142,5 +142,41 @@
         "author": "Phil Jackson",
         "sport": "Basketball",
         "mood": "Teamwork"
+    },
+    {
+        "quote": "You cannot be serious!",
+        "author": "John McEnroe",
+        "sport": "Tennis",
+        "mood": "Funny"
+    },
+    {
+        "quote": "Start where you are. Use what you have. Do what you can.",
+        "author": "Arthur Ashe",
+        "sport": "Tennis",
+        "mood": "Motivational"
+    },
+    {
+        "quote": "Pressure is a privilege - it only comes to those who earn it.",
+        "author": "Patrick Rifter",
+        "sport": "Tennis",
+        "mood": "Dealing with Anxiety"
+    },
+    {
+        "quote": "I'd rather have the attitude of a champion than the trophy of a loser.",
+        "author": "Kim Clijsters",
+        "sport": "Tennis",
+        "mood": "Motivational"
+    },
+    {
+        "quote": "The only victory that counts is the one over yourself.",
+        "author": "Lionel Messi",
+        "sport": "Soccer",
+        "mood": "Motivational"
+    },
+    {
+        "quote": "I am a member of a team, and I rely on the team, I defer to it and sacrifice for it, because the team, not the individual, is the ultimate champion.",
+        "author": "Mia Hamm",
+        "sport": "Soccer",
+        "mood": "Teamwork"
     }
 ]
