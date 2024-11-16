@@ -58,7 +58,7 @@ print(response)
 
 ## UML Diagram
 
-![UML diagram](images/UMLDiagram.png)
+![UML diagram](images/UMLdiagram.png)
 
 
 
